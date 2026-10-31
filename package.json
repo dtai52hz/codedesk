@@ -5,6 +5,7 @@
   "private": true,
   "description": "A Windows coding agent for DeepSeek and compatible APIs",
   "author": "CodeDesk",
+  "license": "MIT",
   "type": "module",
   "main": "dist-electron/electron/main.js",
   "scripts": {
@@ -30,6 +31,7 @@
       "dist/**/*",
       "dist-electron/**/*",
       "resources/icon.png",
+      "LICENSE",
       "package.json"
     ],
     "win": {

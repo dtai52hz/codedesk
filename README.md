@@ -74,3 +74,7 @@ Bài kiểm tra desktop dùng Electron và máy chủ API giả lập cục bộ
 - `scripts/`: chạy phát triển và kiểm tra desktop.
 
 Tài liệu API: [DeepSeek](https://api-docs.deepseek.com/), [tool calling](https://api-docs.deepseek.com/guides/tool_calls/).
+
+## Giấy phép
+
+[MIT](LICENSE) — Copyright (c) 2026 dtai52hz.
